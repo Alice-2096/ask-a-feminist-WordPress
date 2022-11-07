@@ -3,7 +3,7 @@ This is the Wordpress version of the Ask-a-Feminist project. Wordpress is hosted
 
 ## Deloyed link
 
-Follow this [link] (https://askafeminist.tk/wordpress/)
+Follow this [link](https://askafeminist.tk/wordpress/)
 
 ## Technology Used
 
